@@ -16,8 +16,8 @@ public class object {
         // System.out.println(newcar.make);
         // System.out.println(newcar.model);
 
-        mycar.drive();
-        mycar.brake();
+        // mycar.drive();
+        // mycar.brake();
     }
 }
 

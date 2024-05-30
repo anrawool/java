@@ -15,6 +15,7 @@ public class foreach {
         for (String i : animals) {
             System.out.println(i);
         }
+
     }
     
 }

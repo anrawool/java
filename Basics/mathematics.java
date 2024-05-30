@@ -4,6 +4,8 @@ public class mathematics {
         double x = 3.14;
         double y = 203;
 
+        // This is a comment for editing in vim
+
         double maximum = Math.max(x, y);
         double minimum = Math.min(x, y);
         double absolute = Math.abs(x);
